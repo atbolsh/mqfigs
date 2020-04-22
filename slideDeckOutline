@@ -1,0 +1,43 @@
+SCINET
+
+Nonlinearities? -- OFFER TO SKIP
+
+Fig 1b
+
+2 histograms
+
+Fitting x + 10
+
+Fitting 10xSTEP, all errors (not just neural ones).
+
+FUNCTIONS FOR DAMPED DRIVEN OSCILLATOR
+
+A, Phi, ground truth
+
+A, Phi logspace
+
+peak_broad summary
+
+center_very_broad param3
+
+complete failure graph
+
+logspace performed better - logspace_broad
+
+logspace_peak_narrow shows last, fascinating failure mode: param2 vs predictions
+
+(logspace_peak_narrow modelA?)
+
+--------------------------------------
+
+JesseQ
+
+Finch diagram (camp here)
+
+GAN diagram, algorithm
+
+GAIL algorithm.
+
+[[[[ If time, find a way to say "no, not really, but maybe"  ]]]]
+
+My suggestion, with explanations
