@@ -1,36 +1,40 @@
 SCINET
 
-Nonlinearities? -- OFFER TO SKIP
+X [Nonlinearities? -- OFFER TO SKIP]
 
-Fig 1b
+[Fig 1b]
 
-2 histograms
+[2 histograms]
 
-Fitting x + 10
+[Fitting x + 10]
 
-Fitting 10xSTEP, all errors (not just neural ones).
+[Fitting 10xSTEP, all errors (not just neural ones).]
 
-FUNCTIONS FOR DAMPED DRIVEN OSCILLATOR
+[FUNCTIONS FOR DAMPED DRIVEN OSCILLATOR] X
 
-A, Phi, ground truth
+[A, Phi, ground truth]
 
-A, Phi logspace
+[A, Phi logspace]
 
-peak_broad summary
+[Table of Experiments] X
 
-center_very_broad param3
+[peak_broad summary]
 
-complete failure graph
+[center_very_broad param3]
 
-logspace performed better - logspace_broad
+[complete failure graph]
 
-logspace_peak_narrow shows last, fascinating failure mode: param2 vs predictions
+[logspace performed better - logspace_broad]
 
-(logspace_peak_narrow modelA?)
+[logspace_peak_narrow shows last, fascinating failure mode: param2 vs predictions]
+
+[(logspace_peak_narrow modelA?)]
 
 --------------------------------------
 
 JesseQ
+
+[Literally any RL thingamajig]
 
 Finch diagram (camp here)
 
